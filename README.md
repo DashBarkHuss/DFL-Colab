@@ -37,6 +37,7 @@ I've added extra explanations and code within the Jupyter Notebook file to help 
 * [An Introduction to Neural Networks and Autoencoders](https://www.alanzucconi.com/2018/03/14/an-introduction-to-autoencoders/)
 * [Understanding the Technology Behind DeepFakes](https://www.alanzucconi.com/2018/03/14/understanding-the-technology-behind-deepfakes/)
 * [DeepFaceLab 2.0 Guide/Tutorial](https://mrdeepfakes.com/forums/thread-guide-deepfacelab-2-0-explained-and-tutorials-recommended)
+* [DeepFaceLab Google Colab](https://mrdeepfakes.com/forums/thread-guide-deepfacelab-google-colab-tutorial)
   
 
 # Donate
