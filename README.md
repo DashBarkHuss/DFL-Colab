@@ -1,6 +1,3 @@
-![](https://github.com/chervonij/DFL-Colab/blob/master/docs/img/Logo.jpg)
-
-
 ## DeepFaceLab Colab for Newbies
 
 <hr>
