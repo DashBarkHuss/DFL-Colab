@@ -1,5 +1,53 @@
 ![](https://github.com/chervonij/DFL-Colab/blob/master/docs/img/Logo.jpg)
 
+
+## DeepFaceLab Colab for Newbies
+
+<hr>
+
+This fork has added explanation on how to get started with DeepFaceLab for newbies.
+
+*Fork from [DFL-Colab](https://github.com/chervonij/DFL-Colab), a DeepFaceLab fork for Google Colab made by [@chervonij](https://github.com/chervonij).*
+
+## Making A (Bad) Deepfake
+I made a (very undertrained) deepfake using DeepFaceLabs. 
+
+<img src="docs/img/hillary_500_iter_7-4-20.gif"/>
+
+This is my first deepfake using an *autoencoder* model, the kind of model that [DeepFaceLab](https://github.com/iperov/DeepFaceLab) uses. Other deepfakes I've made with [Avatarify](https://github.com/alievk/avatarify) used First Order Motion Model.
+
+
+#### Why is this deepfake so bad?
+
+I trained this model on a small amount of data and iterations: 38 source images for 500 iterations. That's not enough to produce a quality deepfake. 
+
+It's common to train for 100k or more iterations. And use hundreds or thousands of source images.
+
+But my goal with this first deepfake was to get through the DeepFaceLab workflow. Hopefully, this repo can help you get through it as well. 
+
+<img src="docs/img/Hillary_SAEHD_preview_7-4-20.jpg" width="330">
+
+*The preview image for my model at 400 iterations.*
+
+### **Getting Started**
+1. Download the repo
+2. Upload DFL_Colab_Newb.ipynb in this to your Google Drive and open in Google Colab. 
+   
+I've added extra explanations and code within the Jupyter Notebook file to help newbies get started.
+
+
+### **Deepfake Readings:**
+* [An Introduction to Neural Networks and Autoencoders](https://www.alanzucconi.com/2018/03/14/an-introduction-to-autoencoders/)
+* [Understanding the Technology Behind DeepFakes](https://www.alanzucconi.com/2018/03/14/understanding-the-technology-behind-deepfakes/)
+* [DeepFaceLab 2.0 Guide/Tutorial](https://mrdeepfakes.com/forums/thread-guide-deepfacelab-2-0-explained-and-tutorials-recommended)
+  
+
+# Donate
+Please consider [donating](https://github.com/iperov/DeepFaceLab#how-i-can-help-the-project) to DeepFaceLab. This project is open source and a lot of hard work went into it.
+<hr>
+
+## Orginal Readme below:
+
 ## DFL-Colab — *DeepFaceLab fork for Google Colab*
 
 This project provides you IPython Notebook to use DeepFaceLab with Google Colaboratory.  
