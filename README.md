@@ -28,7 +28,7 @@ But my goal with this first deepfake was to get through the DeepFaceLab workflow
 
 ### **Getting Started**
 1. Download the repo
-2. Upload DFL_Colab_Newb.ipynb in this to your Google Drive and open in Google Colab. 
+2. Upload DFL_Colab_Newb.ipynb to your Google Drive and open in Google Colab. 
    
 I've added extra explanations and code within the Jupyter Notebook file to help newbies get started.
 
