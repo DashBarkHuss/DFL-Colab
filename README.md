@@ -2,7 +2,11 @@
 
 <hr>
 
-This fork has added explanation on how to get started with DeepFaceLab for newbies.
+I made my first DeepFaceLab deepfake on Google Colab. 
+
+I found most of the material about using DeepFaceLab on Colab assumed the user was already familiar with DeepFaceLab's workflow. The only tutorial I found even suggested that you already be familiar with the DeepFaceLab workflow before trying colab.
+
+However, if you have a Mac or other computer without an Nvidia GPU, you might need to use colab to get started with DeepFaceLab. So I added explanation on how to use DeepFaceLab on Colab for newbies.
 
 *Fork from [DFL-Colab](https://github.com/chervonij/DFL-Colab), a DeepFaceLab fork for Google Colab made by [@chervonij](https://github.com/chervonij).*
 
@@ -34,17 +38,20 @@ I've added extra explanations and code within the Jupyter Notebook file to help 
 
 
 ### **Deepfake Readings:**
-* [An Introduction to Neural Networks and Autoencoders](https://www.alanzucconi.com/2018/03/14/an-introduction-to-autoencoders/)
-* [Understanding the Technology Behind DeepFakes](https://www.alanzucconi.com/2018/03/14/understanding-the-technology-behind-deepfakes/)
-* [DeepFaceLab 2.0 Guide/Tutorial](https://mrdeepfakes.com/forums/thread-guide-deepfacelab-2-0-explained-and-tutorials-recommended)
-* [DeepFaceLab Google Colab](https://mrdeepfakes.com/forums/thread-guide-deepfacelab-google-colab-tutorial)
+* **Tech Behind Deepfakes #1:** [link](https://www.alanzucconi.com/2018/03/14/an-introduction-to-autoencoders/)
+* **Tech Behind Deepfakes #2:** [link](https://www.alanzucconi.com/2018/03/14/understanding-the-technology-behind-deepfakes/)
+
+### **DeepFaceLab Guides:**
+* **DeepFaceLab 2.0 Guide:** [link](https://mrdeepfakes.com/forums/thread-guide-deepfacelab-2-0-explained-and-tutorials-recommended)
+* **Google Colab Guide:** [link](https://mrdeepfakes.com/forums/thread-guide-deepfacelab-google-colab-tutorial)
   
 
 # Donate
 Please consider [donating](https://github.com/iperov/DeepFaceLab#how-i-can-help-the-project) to DeepFaceLab. This project is open source and a lot of hard work went into it.
 <hr>
 
-## Orginal Readme below:
+## *Orignal Readme below:*
+<hr>
 
 ## DFL-Colab — *DeepFaceLab fork for Google Colab*
 
