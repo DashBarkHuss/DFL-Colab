@@ -4,7 +4,7 @@
 
 I made my first [DeepFaceLab](https://github.com/iperov/DeepFaceLab) deepfake on Google Colab. 
 
-I found most of the material about using DeepFaceLab on Colab assumed the user was already familiar with DeepFaceLab's workflow. The only tutorial I found even suggested that you already be familiar with the DeepFaceLab workflow before trying colab.
+Most of the material about using DeepFaceLab on Colab assumed the user was already familiar with DeepFaceLab's workflow.
 
 However, if you have a Mac or other computer without an Nvidia GPU, you might need to use colab to get started with DeepFaceLab. So I added explanation on how to use DeepFaceLab on Colab for newbies.
 
