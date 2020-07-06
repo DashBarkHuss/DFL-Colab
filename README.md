@@ -24,7 +24,7 @@ I trained this model on a small amount of data and iterations: 38 source images 
 
 It's common to train for 100k or more iterations. And use hundreds or thousands of source images.
 
-But my goal with this first deepfake was to get through the DeepFaceLab workflow. Hopefully, this repo can help you get through it as well. 
+But my goal with this first deepfake was to get through the DeepFaceLab workflow, not make a great deepfake. Hopefully, this repo can help you get through it as well. 
 
 <img src="docs/img/Hillary_SAEHD_preview_7-4-20.jpg" width="330">
 
