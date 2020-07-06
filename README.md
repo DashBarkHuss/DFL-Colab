@@ -13,7 +13,7 @@ However, if you have a Mac or other computer without an Nvidia GPU, you might ne
 ## Making A (Bad) Deepfake
 I made a (very undertrained) deepfake using DeepFaceLabs. 
 
-<img src="docs/img/hillary_500_iter_7-4-20.gif"/>
+<img src="docs/img/hillary_500_iter_7-4-20.gif" width="630"/>
 
 This is my first deepfake using an *autoencoder* model, the kind of model that [DeepFaceLab](https://github.com/iperov/DeepFaceLab) uses. Other deepfakes I've made with [Avatarify](https://github.com/alievk/avatarify) used First Order Motion Model.
 
